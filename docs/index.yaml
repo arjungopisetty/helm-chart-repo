@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   flask-hello-world:
   - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2020-06-07T01:24:38.679727-07:00"
+    description: A Flask based "Hello World!" Helm chart for Kubernetes
+    digest: 283b8748f3395f01b1e9d14fa1b4e912a9b4f5eecf35675c8408fef2892718e3
+    name: flask-hello-world
+    type: application
+    urls:
+    - https://arjungopisetty.github.io/helm-chart-repo/flask-hello-world-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
     appVersion: 1.0.0
-    created: "2020-06-06T18:01:28.931306-07:00"
+    created: "2020-06-07T01:24:38.678408-07:00"
     description: A Flask based "Hello World!" Helm chart for Kubernetes
     digest: 5f2952c291fb7c7fbd6091b02b28956aa51d3c31e426e614cec17967a3be55f3
     name: flask-hello-world
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://arjungopisetty.github.io/helm-chart-repo/flask-hello-world-0.1.0.tgz
     version: 0.1.0
-generated: "2020-06-06T18:01:28.922157-07:00"
+generated: "2020-06-07T01:24:38.675256-07:00"
