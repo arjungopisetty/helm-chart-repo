@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  flask-hello-world:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2020-06-06T17:24:15.536746-07:00"
+    description: A Flask based "Hello World!" Helm chart for Kubernetes
+    digest: 5f2952c291fb7c7fbd6091b02b28956aa51d3c31e426e614cec17967a3be55f3
+    name: flask-hello-world
+    type: application
+    urls:
+    - https://github.com/arjungopisetty/helm-chart-repo/flask-hello-world-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-06T17:24:15.534967-07:00"
