@@ -3,7 +3,17 @@ entries:
   flask-hello-world:
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2020-06-07T18:59:55.541065-07:00"
+    created: "2020-06-07T21:01:32.121368-07:00"
+    description: A Flask based "Hello World!" Helm chart for Kubernetes
+    digest: 3520c842e055b127acc71944ec767e4ff08191db6f7f3616fd28ecb28f2c37b2
+    name: flask-hello-world
+    type: application
+    urls:
+    - https://arjungopisetty.github.io/helm-chart-repo/flask-hello-world-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2020-06-07T21:01:32.120521-07:00"
     description: A Flask based "Hello World!" Helm chart for Kubernetes
     digest: cf41ef3038520e81c7df09aa87a7e7ba3dfff38b701ca275cedd52792a04d122
     name: flask-hello-world
@@ -13,7 +23,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2020-06-07T18:59:55.53957-07:00"
+    created: "2020-06-07T21:01:32.118432-07:00"
     description: A Flask based "Hello World!" Helm chart for Kubernetes
     digest: d93921db3bf8f7578e85202871b514797ecdde1b93cdbd543eb6560a48129056
     name: flask-hello-world
@@ -23,7 +33,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2020-06-07T18:59:55.537563-07:00"
+    created: "2020-06-07T21:01:32.116863-07:00"
     description: A Flask based "Hello World!" Helm chart for Kubernetes
     digest: 283b8748f3395f01b1e9d14fa1b4e912a9b4f5eecf35675c8408fef2892718e3
     name: flask-hello-world
@@ -33,7 +43,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2020-06-07T18:59:55.527439-07:00"
+    created: "2020-06-07T21:01:32.115564-07:00"
     description: A Flask based "Hello World!" Helm chart for Kubernetes
     digest: 5f2952c291fb7c7fbd6091b02b28956aa51d3c31e426e614cec17967a3be55f3
     name: flask-hello-world
@@ -41,4 +51,4 @@ entries:
     urls:
     - https://arjungopisetty.github.io/helm-chart-repo/flask-hello-world-0.1.0.tgz
     version: 0.1.0
-generated: "2020-06-07T18:59:55.523376-07:00"
+generated: "2020-06-07T21:01:32.110276-07:00"
